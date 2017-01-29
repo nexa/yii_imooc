@@ -1,0 +1,56 @@
+Message-ID: <f5b3e6f5bfc73eb0abad726b56c8c326@shop.imooc.com>
+Date: Sun, 01 Jan 2017 13:27:36 +0000
+Subject: Seekpassword
+From: mcyzlizhun@163.com
+To: mcyzlizhun@163.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1483277256_7ed35a11832f9761f622bdf99f81b672_=_"
+
+
+--_=_swift_v4_1483277256_7ed35a11832f9761f622bdf99f81b672_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello: admin
+
+Your seekpassword url:=20
+
+http://shop.imooc.com/index.=
+php?r=3Dadmin%2Fmanage%2Fmailchangepassword&timestamp=3D1483277256&adminuse=
+r=3Dadmin&token=3D1a7020098ba9f7a0d9a09df66678dd0b
+
+DO NOT REPLY
+
+--_=_swift_v4_1483277256_7ed35a11832f9761f622bdf99f81b672_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <p>Hello: admin</p>
+
+<p>Your seekpassword url: </p>
+
+<p><a href=
+ =3D"http://shop.imooc.com/index.php?r=3Dadmin%2Fmanage%2Fmailchangepasswor=
+d&timestamp=3D1483277256&adminuser=3Dadmin&token=3D1a7020098ba9f7a0d9a09df6=
+6678dd0b">http://shop.imooc.com/index.php?r=3Dadmin%2Fmanage%2Fmailchangepa=
+ssword&timestamp=3D1483277256&adminuser=3Dadmin&token=3D1a7020098ba9f7a0d9a=
+09df66678dd0b</p>
+
+<p>DO NOT REPLY</p>
+    </body>
+</html>
+
+
+--_=_swift_v4_1483277256_7ed35a11832f9761f622bdf99f81b672_=_--
